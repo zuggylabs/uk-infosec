@@ -39,3 +39,21 @@ Not all of these groups appear to be active anymore. Try checking with them onli
 | DC44191 - Newcastle   | https://twitter.com/dc44191   |        |
 | DC44114 - Sheffield   | https://twitter.com/dc44114   | ?      |
 | DC441905 - Worcester  | https://dc441905.org/         |        |
+
+# OWASP chapters
+
+| Group        | OWASP Site                                   | Twitter                             |
+|--------------|----------------------------------------------|-------------------------------------|
+| Belfast      | https://owasp.org/www-chapter-belfast/       | https://twitter.com/OWASPBelfast    |
+| Birmingham   | https://owasp.org/www-chapter-birmingham-uk/ | https://twitter.com/OWASPBirmingham |
+| Bristol      | https://owasp.org/www-chapter-bristol-uk/    | https://twitter.com/OWASPBristol    |
+| Cambridge    | https://owasp.org/www-chapter-cambridge/     | https://twitter.com/owaspcambs      |
+| Dorset       | https://owasp.org/www-chapter-dorset/        | https://twitter.com/OWASPdorset     |
+| Leeds        | https://owasp.org/www-chapter-leeds-uk/      | https://twitter.com/OWASPLeeds      |
+| London       | https://owasp.org/www-chapter-london/        | https://twitter.com/owasplondon     |
+| Manchester   | https://owasp.org/www-chapter-manchester/    | https://twitter.com/OwaspMcr        |
+| Newcastle    | https://owasp.org/www-chapter-newcastle-uk/  | https://twitter.com/owasp_newcastle |
+| Peterborough | https://owasp.org/www-chapter-peterborough/  |                                     |
+| Reading      | https://owasp.org/www-chapter-reading/       |                                     |
+| Scotland     | https://owasp.org/www-chapter-scotland/      | https://twitter.com/OWASPScotland   |
+| Suffolk      | https://owasp.org/www-chapter-suffolk/       | https://twitter.com/owaspsuffolk    |

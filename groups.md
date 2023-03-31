@@ -24,3 +24,18 @@ Not all of these groups appear to be active anymore. Try checking with them onli
 | Brighton    | http://www.bn2600.org                               | Dead   |
 | Kent        | http://www.kent2600.org.uk/                         | Dead   |
 
+# Defcon chapters
+
+| Group                 | Site                          | Active |
+|-----------------------|-------------------------------|--------|
+| DC44121 - Birmingham  | https://dc44121.lowlife.tech/ | ?      |
+| DC44131 - Edinburugh  | http://dc44131.org/           |        |
+| DC441392 - Exeter     | http://dc441392.org.uk/       | ?      |
+| DC44141 - Glasgow     | https://dc44141.github.io/    |        |
+| DC441452 - Gloucester | https://www.dc441242.org.uk/  |        |
+| DC_151 - Leeds        | https://twitter.com/_dc151    |        |
+| DC4420 - London       | https://dc4420.org/           |        |
+| DC44161 - Manchester  | https://twitter.com/dc44161   | ?      |
+| DC44191 - Newcastle   | https://twitter.com/dc44191   |        |
+| DC44114 - Sheffield   | https://twitter.com/dc44114   | ?      |
+| DC441905 - Worcester  | https://dc441905.org/         |        |

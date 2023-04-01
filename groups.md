@@ -57,3 +57,7 @@ Not all of these groups appear to be active anymore. Try checking with them onli
 | Reading      | https://owasp.org/www-chapter-reading/       |                                     |
 | Scotland     | https://owasp.org/www-chapter-scotland/      | https://twitter.com/OWASPScotland   |
 | Suffolk      | https://owasp.org/www-chapter-suffolk/       | https://twitter.com/owaspsuffolk    |
+
+# Other groups
+
+While not neccessarily just Infosec, Hackerspaces or Makerspaces can certainly have a lot of crossover. Have a look at https://wiki.hackerspaces.org/List_of_Hacker_Spaces

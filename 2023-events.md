@@ -13,5 +13,6 @@
 | BSides Basingstoke  | https://www.bsidesbasingstoke.com/   | July 21st             |
 | 44Con               | https://44con.com/                   | September 13th - 15th |
 | Bsides Belfast      | https://bsidesbelfast.org/           | September 19th        |
-| Bsides Cambridge     | https://bsidescambridge.org          | September 23rd        |
+| Bsides Cambridge    | https://bsidescambridge.org          | September 23rd        |
+| Bsides Newcastle    | https://www.bsidesnewcastle.org/     | September 30th        |
 | Bsides London       | https://www.securitybsides.org.uk/   | December 9th          |

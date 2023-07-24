@@ -16,4 +16,5 @@
 | Bsides Cambridge    | https://bsidescambridge.org          | September 23rd        |
 | Bsides Newcastle    | https://www.bsidesnewcastle.org/     | September 30th        |
 | Glasgow Caledonian Cyber Convention 2023 | https://g3c.gcuhacking.com/ | November 4th-5th |
+| Bsides Bristol      | https://www.bsidesbristol.org.uk/    | November 4th          |
 | Bsides London       | https://www.securitybsides.org.uk/   | December 9th          |

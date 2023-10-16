@@ -2,6 +2,7 @@
 
 | Event               | Site                                 | Date                  |
 |---------------------|--------------------------------------|-----------------------|
+| Securi-tay          | https://2024.securi-tay.co.uk/       | March 1st             |
 | BSides Lancashire   | https://www.bsideslancashire.org/    | March 27th            |
 | CYBERUK             | https://www.cyberuk.uk/              | May 13-15             |
 | Electromagnetic Field | https://www.emfcamp.org/           | May 30th - June 2nd   | 

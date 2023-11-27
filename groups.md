@@ -10,7 +10,8 @@ Not all of these groups appear to be active anymore. Try checking with them onli
 | Glasgow     | https://www.2600glasgow.com/                        |        |
 | Bournemouth | https://www.bournemouth2600.org/                    |        |
 | Belfast     | https://twitter.com/2600Belfast                     |        |
-| Manchester  | http://www.man2600.org.uk/                          | Dead?  |
+| Manchester  | https://twitter.com/2600manchester                  |        |
+| Cheltenham  | https://twitter.com/2600Cheltenham                  |        |
 | Norwich     | http://www.norwich2600.co.uk/                       | Dead?  |
 | Edinburugh  | https://2600edinburgh.org/                          | Dead?  |
 | Hull        | http://www.hackhull.com/                            | Dead?  |

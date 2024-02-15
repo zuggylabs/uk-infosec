@@ -3,7 +3,7 @@
 | Event               | Site                                 | Date                  |
 |---------------------|--------------------------------------|-----------------------|
 | Securi-tay          | https://2024.securi-tay.co.uk/       | March 1st             |
-| Bsides Liverpool    | https://www.bsidesliverpool.co.uk/   | March 2nd             |
+| Bsides Liverpool    | https://www.bsidesliverpool.co.uk/   | ~March 2nd~ Postponed             |
 | BSides Lancashire   | https://www.bsideslancashire.org/    | March 27th            |
 | Bsides Cymru 	      | https://www.bsides.cymru/ 	         | April 27th            |
 | CYBERUK             | https://www.cyberuk.uk/              | May 13-15             |

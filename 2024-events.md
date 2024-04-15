@@ -17,4 +17,5 @@
 | Steelcon 	          | https://www.steelcon.info/           | July 19th - 21st      |
 | Bsides Exeter       | https://bsidesexeter.co.uk/          | July 27th             |
 | Bsides Bristol      | https://www.bsidesbristol.org.uk/    | August 30th-31st      |
+| Bsides Newcastle    | https://www.bsidesnewcastle.org/     | October 5th           |
 | Bsides Belfast      |	https://bsidesbelfast.org/           | November 12th         |

@@ -3,6 +3,7 @@
 | Event               | Site                                 | Date                  |
 |---------------------|--------------------------------------|-----------------------|
 | BSides Lancashire   | https://www.bsideslancashire.org/    | April 16th            |
+| Bsides Exeter 	    | https://bsidesexeter.co.uk/ 	       | April 26th            |
 | CYBERUK             | https://www.cyberuk.uk/              | May 6th-8th           |
 | Infosecurity Europe	| https://www.infosecurityeurope.com/  | June 3rd - 5th        |
 | Bsides Leeds      	| http://bsidesleeds.co.uk/            | June 20th-21st        |

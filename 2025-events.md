@@ -3,6 +3,7 @@
 | Event               | Site                                 | Date                  |
 |---------------------|--------------------------------------|-----------------------|
 | Securi-tay          | https://securi-tay.co.uk/            | February 28th         |
+| Bsides Kent         | https://bsideskent.org/              | March 22nd            |
 | BSides Lancashire   | https://www.bsideslancashire.org/    | April 16th            |
 | Bsides Exeter 	    | https://bsidesexeter.co.uk/ 	       | April 26th            |
 | Bsides Birmingham   | https://www.bsidesbrum.com/          | May 3rd               |

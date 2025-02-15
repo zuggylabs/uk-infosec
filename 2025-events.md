@@ -17,4 +17,5 @@
 | BSides Cheltenham 	| https://www.cheltenhambsides.org.uk/ | July 19th             |
 | BSides Basingstoke 	| https://www.bsidesbasingstoke.com/ 	 | July 25th             |
 | Bsides Bournemouth  | https://bsides-bournemouth.org/      | August 16th           |
+| 44Con               | https://44con.com/                   | September 17th-19th   |
 | Bsides Newcastle    | https://www.bsidesnewcastle.org/     | September 27th        |

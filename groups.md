@@ -30,7 +30,8 @@ Not all of these groups appear to be active anymore. Try checking with them onli
 | Group                 | Site                          | Active |
 |-----------------------|-------------------------------|--------|
 | DC44121 - Birmingham  | https://dc44121.lowlife.tech/ | ?      |
-| DC441382 - Dundee     | https://twitter.com/DC441382  |       |
+| DC441244 - Chester    | https://x.com/dc441244        |        |
+| DC441382 - Dundee     | https://twitter.com/DC441382  |        |
 | DC44131 - Edinburugh  | http://dc44131.org/           |        |
 | DC441392 - Exeter     | http://dc441392.org.uk/       | ?      |
 | DC44141 - Glasgow     | https://dc44141.github.io/    |        |

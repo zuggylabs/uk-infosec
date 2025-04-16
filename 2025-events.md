@@ -10,7 +10,6 @@
 | CYBERUK             | https://www.cyberuk.uk/              | May 6th-8th           |
 | Le Tour Du Hack     | https://ltdh.enusec.org/             | May 10th-11th         |
 | Bsides Dublin       | https://www.bsidesdub.ie/            | May 24th              |
-| Bsides Cymru 	      | https://www.bsides.cymru/ 	         | May 31st              |
 | Infosecurity Europe	| https://www.infosecurityeurope.com/  | June 3rd - 5th        |
 | Bsides Leeds      	| http://bsidesleeds.co.uk/            | June 20th-21st        |
 | Steelcon 	          | https://www.steelcon.info/           | July 11th - 13th      |

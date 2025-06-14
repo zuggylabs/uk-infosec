@@ -20,3 +20,4 @@
 | Bsides Belfast      | https://bsidesbelfast.org/           | September 11th        |
 | 44Con               | https://44con.com/                   | September 17th-19th   |
 | Bsides Newcastle    | https://www.bsidesnewcastle.org/     | September 27th        |
+| Bsides London       |	https://www.securitybsides.org.uk/   | December 13th         |

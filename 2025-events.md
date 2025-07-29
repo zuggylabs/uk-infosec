@@ -20,5 +20,7 @@
 | Bsides Belfast      | https://bsidesbelfast.org/           | September 11th        |
 | 44Con               | https://44con.com/                   | September 18th-19th   |
 | Bsides Newcastle    | https://www.bsidesnewcastle.org/     | September 27th        |
+| C Sides             | https://www.csides.uk/               | October 3rd           |
+| Bristol & Bath Cyber Con | https://techspark.co/bbcyberconf/ | October 7th         |
 | Bsides Cymru        | https://www.bsides.cymru/            | October 17th          |
 | Bsides London       |	https://www.securitybsides.org.uk/   | December 13th         |

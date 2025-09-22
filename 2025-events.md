@@ -23,4 +23,5 @@
 | C Sides             | https://www.csides.uk/               | October 3rd           |
 | Bristol & Bath Cyber Con | https://techspark.co/bbcyberconf/ | October 7th         |
 | Bsides Cymru        | https://www.bsides.cymru/            | October 17th          |
+| BSides Aberystwyth  | https://bsidesaberystwyth.org        | November 22nd         |
 | Bsides London       |	https://www.securitybsides.org.uk/   | December 13th         |

@@ -3,6 +3,7 @@
 | Event               | Site                                 | Date                  |
 |---------------------|--------------------------------------|-----------------------|
 | Securi-tay          | https://securi-tay.co.uk/            | February 27th         |
+| Bsides OT UK        | https://bsidesot.uk/                 | April 10th            |
 | CYBERUK             |	https://www.cyberuk.uk/              | April 21st - 23rd     |
 | Bsides Exeter       | https://bsidesexeter.co.uk           | April 24-25th         |
 | Hack Glasgow        | https://hackglasgow.live/            | April 25th            |

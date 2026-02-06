@@ -7,6 +7,7 @@
 | Bsides OT UK        | https://bsidesot.uk/                 | April 10th            |
 | CYBERUK             |	https://www.cyberuk.uk/              | April 21st - 23rd     |
 | Bsides Exeter       | https://bsidesexeter.co.uk           | April 24-25th         |
+| Bsides Kent         | https://bsideskent.org/              | May 8th               |
 | Bsides Birmingham   | https://www.bsidesbrum.com/          | May 16th              |
 | Infosecurity Europe	| https://www.infosecurityeurope.com/  | June 2nd - 4th        |
 | Bsides Leeds      	| http://bsidesleeds.co.uk/            | June 13th             |

@@ -21,4 +21,6 @@
 | Bsides Belfast      | https://bsidesbelfast.org/           | September 10th        |
 | 44Con               | https://44con.com/                   | September 17th-18th   |
 | BSides Cheltenham 	| https://www.cheltenhambsides.org.uk/ | October 3rd           |
+| C Sides             | https://www.csides.uk/               | October 9th           |
+| Bsides Bournemouth  | https://bsides-bournemouth.org/      | November 7th          |
 | Bsides London       | https://bsides.london/               | December 12th         |

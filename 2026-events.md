@@ -13,9 +13,12 @@
 | Bsides Dublin       | https://www.bsidesdub.ie/            | May 23rd              |
 | Infosecurity Europe	| https://www.infosecurityeurope.com/  | June 2nd - 4th        |
 | Bsides Leeds      	| http://bsidesleeds.co.uk/            | June 13th             |
-| Steelcon 	          | https://www.steelcon.info/           | July 10th - 12th (TBC)|
+| Steelcon 	          | https://www.steelcon.info/           | July 10th - 12th      |
 | Electromagnetic Field | https://www.emfcamp.org/           | July 16th - 19th      |
+| BSides Basingstoke  | https://www.bsidesbasingstoke.com/   | July 31st             |
 | Hack Glasgow        | https://hackglasgow.live/            | August 15th           |
+| Bsides Bristol      | https://www.bsidesbristol.org.uk/    | August 21st - 22nd    |
 | Bsides Belfast      | https://bsidesbelfast.org/           | September 10th        |
 | 44Con               | https://44con.com/                   | September 17th-18th   |
 | BSides Cheltenham 	| https://www.cheltenhambsides.org.uk/ | October 3rd           |
+| Bsides London       | https://bsides.london/               | December 12th         |

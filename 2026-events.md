@@ -23,4 +23,5 @@
 | BSides Cheltenham 	| https://www.cheltenhambsides.org.uk/ | October 3rd           |
 | C Sides             | https://www.csides.uk/               | October 9th           |
 | Bsides Bournemouth  | https://bsides-bournemouth.org/      | November 7th          |
+| Bsides Aberystwyth  | https://bsidesaberystwyth.org/       | November 21st         |
 | Bsides London       | https://bsides.london/               | December 12th         |

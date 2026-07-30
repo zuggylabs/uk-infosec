@@ -24,4 +24,5 @@
 | C Sides             | https://www.csides.uk/               | October 9th           |
 | Bsides Bournemouth  | https://bsides-bournemouth.org/      | November 7th          |
 | Bsides Aberystwyth  | https://bsidesaberystwyth.org/       | November 21st         |
+| Bsides Newcastle    | https://www.bsidesnewcastle.org/     | November 28th        |
 | Bsides London       | https://bsides.london/               | December 12th         |
